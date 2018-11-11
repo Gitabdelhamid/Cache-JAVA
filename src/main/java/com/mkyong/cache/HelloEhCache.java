@@ -74,6 +74,8 @@ public class HelloEhCache{
 		
 		//7. shut down the cache manager
 		cm.shutdown();
+		
+		
 	}
 
 
